@@ -1,0 +1,8 @@
+{
+  "name": "AIAA Conference Paper",
+  "compiler": "pdflatex",
+  "description": "A compile-tested AIAA technical conference paper template for aerospace and space engineering submissions.",
+  "source": "https://letx.app/templates/conferences/aiaa-conference-paper/",
+  "author": "LetX",
+  "license": "MIT"
+}
