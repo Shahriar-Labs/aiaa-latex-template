@@ -1,17 +1,17 @@
 # AIAA LaTeX Template — Aerospace Conference Paper
 
-[![Open in LetX](https://img.shields.io/badge/Open%20in-LetX-9333EA.svg)](https://letx.app/templates/conferences/aiaa-conference-paper/)
+[![Open in LetX](https://letx.app/badges/open-in-letx.svg)](https://letx.app/open?template=aiaa-conference-paper)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Compile Tested](https://img.shields.io/badge/Compile-Tested-success.svg)](#compile-locally)
 
 **A compile-tested AIAA technical conference paper template for aerospace and space engineering submissions.**
 
-Edit and compile this template instantly in your browser — no LaTeX install — at **[letx.app](https://letx.app/templates/conferences/aiaa-conference-paper/)**, with real-time collaboration and one-second compiles.
+**[Open this template in LetX](https://letx.app/open?template=aiaa-conference-paper)**: it becomes a new project you can edit and compile in your browser, with no LaTeX install, real-time collaboration and compiles that take a few seconds. Its page in the gallery is [here](https://letx.app/templates/conferences/aiaa-conference-paper/).
 
 ![AIAA LaTeX Template — Aerospace Conference Paper preview](preview.png)
 
 ## Use it online (recommended)
-Open **[this template on LetX »](https://letx.app/templates/conferences/aiaa-conference-paper/)** and click *Open as Template* — it compiles in ~1 second, free, in your browser.
+**[Open this template in LetX](https://letx.app/open?template=aiaa-conference-paper)**: it becomes a new project you can edit and compile in your browser, with no LaTeX install, real-time collaboration and compiles that take a few seconds. Its page in the gallery is [here](https://letx.app/templates/conferences/aiaa-conference-paper/).
 
 ## <a name="compile-locally"></a>Compile locally
 ```bash
