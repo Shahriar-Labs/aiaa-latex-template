@@ -6,7 +6,7 @@
 
 **A compile-tested AIAA technical conference paper template for aerospace and space engineering submissions.**
 
-**[Open this template in LetX](https://letx.app/open?template=aiaa-conference-paper)**: it becomes a new project you can edit and compile in your browser, with no LaTeX install, real-time collaboration and compiles that take a few seconds. Its page in the gallery is [here](https://letx.app/templates/conferences/aiaa-conference-paper/).
+Edit and compile this template in your browser at **[letx.app](https://letx.app/templates/conferences/aiaa-conference-paper/)**, with no LaTeX install and real-time collaboration. A compile takes a few seconds.
 
 ![AIAA LaTeX Template — Aerospace Conference Paper preview](preview.png)
 
